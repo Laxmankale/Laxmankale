@@ -34,9 +34,9 @@
 
 
 ### 🌐 How to Reach Me  
-- 📧 Email: [your.email@gmail.com](mailto:lakhankale888@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/laxman-kale-29886123b/)  
-- 🐙 GitHub: [github.com/Laxmankale](https://github.com/Laxmankale)  
+- 📧 Email: [lakhankale888@gmail.com](mailto:lakhankale888@gmail.com)  
+- 💼 LinkedIn: [Laxman Kale(https://www.linkedin.com/in/laxman-kale-29886123b/)  
+- 🐙 GitHub: [github](https://github.com/Laxmankale)  
 
 ---
 

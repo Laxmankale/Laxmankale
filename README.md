@@ -30,7 +30,7 @@
 
 ### 🌐 How to Reach Me  
 
-📧 Email:lakhankale888@gmail.com (mailto:lakhankale888@gmail.com)  
+📧 Email: lakhankale888@gmail.com (mailto:lakhankale888@gmail.com)
 
 
 <a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">

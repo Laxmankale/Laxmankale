@@ -30,9 +30,8 @@
 
 ### 🌐 How to Reach Me  
 
-<a href="mailto:lakhankale888@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+📧 Email:lakhankale888@gmail.com (mailto:lakhankale888@gmail.com)  
+
 
 <a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

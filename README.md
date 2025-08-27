@@ -26,10 +26,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laxmankale&theme=tokyonight)  
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Laxmankale&theme=tokyonight)  
-
 ---
 
 ### 🌐 How to Reach Me  
@@ -38,7 +34,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/laxman-kale-29886123b/">
+<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

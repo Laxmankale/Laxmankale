@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Lucky 🫡  
+# 👋 Hi there,  
 
 ### 🚀 About Me  
 - 🎓 MCA Graduate (2025) | Aspiring **Java Backend Developer**  

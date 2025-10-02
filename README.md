@@ -20,13 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight)  
-
----
-
 ### 🌐 How to Reach Me  
 
 📧 Email: lakhankale888@gmail.com

@@ -1,7 +1,7 @@
 # 👋 Hi there,  
 
 ### 🚀 About Me  
-- 🎓 MCA Graduate (2025) | Aspiring **Java Backend Developer**  
+- 🎓 MCA Graduate | Aspiring **Java Backend Developer**  
 - 💻 Passionate about building **real-world projects** with Java, Spring Boot & Java FullStack  
 - 🔭 Projects I’m working on:  
    - 🚗 **Share2Go** – Ride-sharing app (Spring Boot + React) 

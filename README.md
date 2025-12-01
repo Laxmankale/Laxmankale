@@ -1,40 +1,78 @@
-# 👋 Hi there,  
+# Laxman Kale
 
-### 🚀 About Me  
-- 🎓 MCA Graduate | Aspiring **Java Backend Developer**  
-- 💻 Passionate about building **real-world projects** with Java, Spring Boot & Java FullStack  
-- 🔭 Projects I’m working on:  
-   - 🚗 **Share2Go** – Ride-sharing app (Spring Boot + React) 
+## Backend Developer — Java | Spring Boot | REST APIs | SQL | Microservices
 
----
-
-### 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?logo=fastapi&logoColor=white)  
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)  
+**Phone:** +91 9579070069  
+**Email:** lakhankale888@gmail.com  
+**Portfolio:** https://laxmankale.github.io/  
+**GitHub:** https://github.com/Laxmankale  
+**LinkedIn:** https://www.linkedin.com/in/lakhan-kale-29886123b/
 
 ---
 
-### 🌐 How to Reach Me  
-
-📧 Email: lakhankale888@gmail.com
-
-
-<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Laxmankale" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-
+## About Me
+Backend Developer with hands-on experience in Java, Spring Boot, REST APIs, SQL, and microservices architecture.  
+I focus on designing clean and modular backend systems, implementing secure authentication flows, optimizing database queries, and debugging complex API issues.  
+Strong understanding of scalable backend design and seamless integration with frontend applications.
 
 ---
 
-⭐️ From [Lucky 🫡](https://github.com/Laxmankale)
+## Experience
+
+### Back-End Developer Intern — Bentork Industries LLP, Pune  
+**July 2025 – September 2025**
+- Developed microservice modules including Users, Sessions, and Payments.  
+- Implemented session lifecycle logic (start/stop, wallet validation) to reduce backend inconsistencies.  
+- Investigated and resolved API failures using Postman, logs, and SQL debugging.  
+- Collaborated with the React team to stabilize EV charging workflows and reduce integration failures.
+
+### Back-End Developer Intern — Infosys Springboard  
+**September 2025 – November 2025**
+- Designed and developed REST APIs for a MERN-based web application (“Hire A Helper”).  
+- Standardized API contracts and resolved request/response mismatches for improved reliability.  
+- Worked within Agile sprints: created pull requests, fixed merge conflicts, and delivered backend enhancements.  
+- Supported testing and deployment by troubleshooting backend issues and optimizing API responses.
+
+---
+
+## Projects
+
+### Share2Go — Ride-Sharing Web Application  
+**Repository:** https://github.com/Laxmankale/share2ride_Ride_Sharing_App  
+**Tech Stack:** Spring Boot, React.js, Tailwind CSS, MySQL, REST APIs
+
+- Developed backend services for ride search, booking, authentication, and availability.  
+- Implemented JWT-based role access for Passenger and Driver.  
+- Built ride-matching logic using pickup, destination, and seat-based filters.  
+- Developed React components for searching rides, booking seats, and viewing trip history.  
+- Improved database performance by indexing frequently queried fields.
+
+---
+
+## Education
+
+**Master of Computer Application (MCA)**  
+Genba Sopanrao Moze College of Engineering, Pune  
+*Aug 2023 – June 2025 | CGPA: 7.35/10*
+
+**Bachelor of Computer Science (BCS)**  
+Balbhim Arts, Science and Commerce College, Beed  
+*July 2019 – June 2022 | 76.70%*
+
+---
+
+## Technical Skills
+
+**Languages:** Java, JavaScript, SQL  
+**Backend:** Spring Boot, Hibernate, JPA, REST APIs, Microservices  
+**Frontend:** React.js, HTML, CSS  
+**Database:** MySQL  
+**Tools:** Maven, Git, GitHub, Postman, VS Code, STS4  
+**Core Concepts:** OOP, MVC, Authentication, Exception Handling, Debugging, SDLC, Agile
+
+---
+
+## Additional Information
+I focus on writing clean, maintainable code and delivering reliable backend systems that integrate smoothly with frontend applications.  
+Actively building real-world projects and continuously improving my backend expertise.
+

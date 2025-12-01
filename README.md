@@ -1,78 +1,70 @@
 # Laxman Kale
 
-## Backend Developer — Java | Spring Boot | REST APIs | SQL | Microservices
-
-**Phone:** +91 9579070069  
-**Email:** lakhankale888@gmail.com  
-**Portfolio:** https://laxmankale.github.io/  
-**GitHub:** https://github.com/Laxmankale  
-**LinkedIn:** https://www.linkedin.com/in/lakhan-kale-29886123b/
+Backend Developer specializing in Java, Spring Boot, REST APIs, SQL, and microservices.  
+I build production-ready backend systems with clean architecture, modular design, and reliable API communication.  
+My focus is on writing scalable code, improving system performance, and delivering stable integrations with frontend applications.
 
 ---
 
-## About Me
-Backend Developer with hands-on experience in Java, Spring Boot, REST APIs, SQL, and microservices architecture.  
-I focus on designing clean and modular backend systems, implementing secure authentication flows, optimizing database queries, and debugging complex API issues.  
-Strong understanding of scalable backend design and seamless integration with frontend applications.
-
----
-
-## Experience
-
-### Back-End Developer Intern — Bentork Industries LLP, Pune  
-**July 2025 – September 2025**
-- Developed microservice modules including Users, Sessions, and Payments.  
-- Implemented session lifecycle logic (start/stop, wallet validation) to reduce backend inconsistencies.  
-- Investigated and resolved API failures using Postman, logs, and SQL debugging.  
-- Collaborated with the React team to stabilize EV charging workflows and reduce integration failures.
-
-### Back-End Developer Intern — Infosys Springboard  
-**September 2025 – November 2025**
-- Designed and developed REST APIs for a MERN-based web application (“Hire A Helper”).  
-- Standardized API contracts and resolved request/response mismatches for improved reliability.  
-- Worked within Agile sprints: created pull requests, fixed merge conflicts, and delivered backend enhancements.  
-- Supported testing and deployment by troubleshooting backend issues and optimizing API responses.
-
----
-
-## Projects
-
-### Share2Go — Ride-Sharing Web Application  
-**Repository:** https://github.com/Laxmankale/share2ride_Ride_Sharing_App  
-**Tech Stack:** Spring Boot, React.js, Tailwind CSS, MySQL, REST APIs
-
-- Developed backend services for ride search, booking, authentication, and availability.  
-- Implemented JWT-based role access for Passenger and Driver.  
-- Built ride-matching logic using pickup, destination, and seat-based filters.  
-- Developed React components for searching rides, booking seats, and viewing trip history.  
-- Improved database performance by indexing frequently queried fields.
-
----
-
-## Education
-
-**Master of Computer Application (MCA)**  
-Genba Sopanrao Moze College of Engineering, Pune  
-*Aug 2023 – June 2025 | CGPA: 7.35/10*
-
-**Bachelor of Computer Science (BCS)**  
-Balbhim Arts, Science and Commerce College, Beed  
-*July 2019 – June 2022 | 76.70%*
-
----
-
-## Technical Skills
+## Tech Stack
 
 **Languages:** Java, JavaScript, SQL  
 **Backend:** Spring Boot, Hibernate, JPA, REST APIs, Microservices  
 **Frontend:** React.js, HTML, CSS  
 **Database:** MySQL  
 **Tools:** Maven, Git, GitHub, Postman, VS Code, STS4  
-**Core Concepts:** OOP, MVC, Authentication, Exception Handling, Debugging, SDLC, Agile
+**Core Concepts:** Authentication, JWT, MVC, OOP, Exception Handling, Debugging, SDLC, Agile
 
 ---
 
-## Additional Information
-I focus on writing clean, maintainable code and delivering reliable backend systems that integrate smoothly with frontend applications.  
-Actively building real-world projects and continuously improving my backend expertise.
+## Featured Projects
+
+### **Share2Go — Ride-Sharing Web Application**  
+**Repository:** https://github.com/Laxmankale/share2ride_Ride_Sharing_App  
+A full-stack ride-sharing platform built with Spring Boot and React.js.
+
+**Highlights:**  
+- Designed modular backend services: booking, ride-search, authentication, role-based access  
+- Implemented JWT security for Passenger and Driver workflows  
+- Built optimized ride-matching logic using pickup, destination, seat-filtering  
+- Developed React components for ride search, booking UI, trip history  
+- Improved DB performance through indexing of high-search fields  
+
+---
+
+## Experience
+
+### Back-End Developer Intern — Bentork Industries LLP  
+Worked on microservices, session logic, wallet validation, and debugging API failures using logs and Postman.
+
+### Back-End Developer Intern — Infosys Springboard  
+Developed REST APIs for a MERN web app, standardized API contracts, resolved integration issues, and contributed to Agile sprints.
+
+---
+
+## GitHub Overview
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=transparent)
+
+---
+
+## Portfolio & Contact
+
+**Portfolio:** https://laxmankale.github.io/  
+**Email:** lakhankale888@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/lakhan-kale-29886123b/  
+**GitHub:** https://github.com/Laxmankale
+
+---
+
+### Current Focus
+Building production-grade backend systems using:  
+- Scalable microservice patterns  
+- Authentication architectures (JWT, session lifecycle)  
+- Clean API design and documentation  
+- Database optimization  
+- Real-world full-stack applications
+
+---
 

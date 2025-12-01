@@ -58,25 +58,6 @@
 - Indexed DB queries for better performance  
 
 ---
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
->
-
----
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmankale&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 💼 Experience
 
 ### Bentork Industries LLP — Backend Intern  
@@ -99,6 +80,23 @@
 
 **MCA — GSMCOE, Pune** (CGPA 7.35/10)  
 **BCS — Balbhim College, Beed** (76.70%)
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmankale&theme=tokyo-night&hide_border=true&area=true&custom_title=" />
+</div>
 
 ---
 

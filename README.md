@@ -68,7 +68,7 @@
 - Improved EV charging flow reliability with React team  
 
 ### Infosys Springboard — Backend Intern  
-**Sept 2025 – Nov 2025**
+**Oct 2025 – Nov 2025**
 - Developed REST APIs for MERN app  
 - Standardized API contracts  
 - Worked in Agile: PRs, conflict resolution  

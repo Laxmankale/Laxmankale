@@ -1,123 +1,92 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:302b63&height=250&section=header&text=Laxman%20Kale&fontSize=50&fontColor=A970FF&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
-</div>
+# Laxman Kale
 
-<div align="center">
+**Java Developer | Backend Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Crafting+clean+APIs+%26+reliable+integrations+%E2%9A%A1;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices)](https://github.com/Laxmankale)
+Pune, India  
+📞 +91 9579070069 | ✉️ lakhankale888@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/lakhan-kale-29886123b/) · [GitHub](https://github.com/Laxmankale) · [Portfolio](https://laxmankale.github.io/)
 
-</div>
+---
 
-<br/>
+## Professional Summary
+Backend-focused Java developer with hands-on experience building scalable microservices, REST APIs, and event-driven systems. Strong foundation in Spring Boot, Hibernate, JPA, and SQL-driven backend development, with practical exposure to Docker, Kafka, and Agile engineering workflows.
 
-<div align="center">
-  <a href="https://laxmankale.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=A970FF&labelColor=161b22" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/lakhan-kale-29886123b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A970FF&labelColor=161b22" alt="LinkedIn"/></a>
-  <a href="https://github.com/Laxmankale"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A970FF&labelColor=161b22" alt="GitHub"/></a>
-  <a href="mailto:lakhankale888@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=A970FF&labelColor=161b22" alt="Email"/></a>
-</div>
+---
 
-<br/>
+## Experience
 
-## 👋 About Me
+### Java Developer — Zest India IT Services, Pune
+**March 2026 – Present**
+- Developing scalable microservices and REST APIs using Java, Spring Boot, Hibernate, and JPA.
+- Working with Apache Kafka for asynchronous communication across distributed services.
+- Designing and integrating backend APIs for enterprise business workflows and data processing.
+- Containerizing backend applications using Docker in development and staging environments.
+- Debugging API payload mismatches, SQL issues, and inter-service communication failures.
+- Participating in Agile sprint planning, code reviews, and Git-based collaboration.
 
-> I'm a **Backend Developer** from **Pune, India** passionate about building scalable systems, clean API architecture, and reliable backend integrations.
+### Software Developer Intern — Infosys Springboard (Remote)
+**October 2025 – December 2025**
+- Built and enhanced RESTful APIs for a MERN-based project (Hire A Helper).
+- Standardized API contracts for consistent request/response and validation behavior.
+- Integrated backend APIs with centralized exception handling.
+- Collaborated in Agile sprint cycles through pull requests, bug fixes, and merge conflict resolution.
 
-- 🔭 Currently building **microservices** with Spring Boot
-- 🌱 Exploring **system design** & **cloud architecture**
-- 💼 Open to **Backend & Full-Stack** opportunities
+### Java Developer Intern — Bentork Industries LLP, Pune
+**July 2025 – September 2025**
+- Developed backend modules for Users, Sessions, and Payments using Spring Boot.
+- Implemented session lifecycle management with wallet validation and session-state handling.
+- Worked with layered architecture, REST APIs, and MySQL integration.
+- Diagnosed payload mismatches, SQL errors, and timeout issues using Postman and logging.
+- Managed feature delivery and issue fixes through Git branches and pull requests.
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Projects
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,mysql,maven,git,github,postman,tailwind,html,css&perline=7" alt="Tech Stack" />
-  </a>
-</div>
+### Share2Go — Ride-Sharing Web Application
+**Tech Stack:** Spring Boot, React.js, MySQL, Docker  
+**Repository:** [share2ride_Ride_Sharing_App](https://github.com/Laxmankale/share2ride_Ride_Sharing_App)
+- Designed and implemented 15+ REST APIs for ride booking, search filtering, and user management.
+- Implemented JWT-based authentication and role-based authorization for Drivers and Passengers.
+- Applied DTO-based layered architecture (Controller → Service → Repository).
+- Designed relational database schema for users, rides, and bookings.
+- Integrated React frontend with backend APIs for end-to-end ride booking workflows.
 
-<br/>
+### Sweet Shop Management System — Inventory & Sales Platform
+**Tech Stack:** Spring Boot, React.js, MySQL  
+**Repository:** [sweet-shop-management-system](https://github.com/Laxmankale/sweet-shop-management-system)
+- Built a full-stack inventory and sales platform using Spring Boot and React.js.
+- Developed REST APIs for product management, stock tracking, and purchase workflows.
+- Wrote unit tests using JUnit and Mockito for service and controller layers.
+- Tested APIs with Postman to validate payload structure and HTTP behavior.
+- Integrated frontend and backend features for dynamic product search and purchasing.
 
-## 💼 Experience & 🎓 Education
+---
 
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
+## Education
 
-### 💼 Experience
+### Master of Computer Applications (MCA)
+**Savitribai Phule Pune University (SPPU), Pune**  
+**July 2023 – June 2025**
 
-**Infosys Springboard** | Backend Intern
-*Oct 2025 – Nov 2025*
-- Developed REST APIs for MERN stack app
-- Standardized API contracts
-- Agile sprints & Production debugging
+### Bachelor of Science in Computer Science (BCS)
+**Dr. Babasaheb Ambedkar Marathwada University (BAMU), Chhatrapati Sambhajinagar**  
+**June 2019 – May 2022**
 
-**Bentork Industries LLP** | Backend Intern
-*Jul 2025 – Sep 2025*
-- Built independent microservices for Users, Sessions, and Payments.
-- Improved EV charging flow reliability.
+---
 
-</td>
-<td width="50%" valign="top">
+## Technical Skills
 
-### 🎓 Education
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Spring MVC, Spring Core, JDBC, Hibernate, JPA, REST APIs, GraphQL, Microservices
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Architecture & Messaging:** Apache Kafka, Event-Driven Communication, DTO Pattern, Layered Architecture
+- **Databases:** PostgreSQL, MySQL, Database Design, JPA Relationships, SQL Query Optimization
+- **Tools & Platforms:** Docker, AWS (Basics), Git, GitHub, Maven, Postman
+- **Core Concepts:** OOP, Collections, Exception Handling, Multithreading, Debugging
+- **Practices:** Agile/Scrum, Code Reviews, Pull Requests, API Integration
 
-**Master of Computer Applications (MCA)**
-*GSMCOE, Pune*
-- CGPA: **7.35 / 10**
+---
 
-**Bachelor of Computer Science (BCS)**
-*Balbhim College, Beed*
-- Score: **76.70%**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Project
-
-### [🚗 Share2Go — Ride-Sharing Platform](https://github.com/Laxmankale/share2ride_Ride_Sharing_App)
-
-A full-stack ride-sharing application built with **Spring Boot** and **React**. Supports real-time ride matching based on pickup location, destination, and seat availability.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=161b22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=161b22" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=161b22" alt="Tailwind" />
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=A970FF&text_color=c9d1d9" height="195" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A970FF&text_color=c9d1d9" height="195" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laxmankale&theme=tokyonight&hide_border=true&background=0d1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=c9d1d9&dates=8b949e" height="195" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Laxmankale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:302b63&height=120&section=footer" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <strong>💬 Open to Backend & Full-Stack opportunities</strong><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Laxmankale&color=A970FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
+## Career Focus
+Open to Java Backend and Full-Stack software engineering opportunities involving API design, distributed systems, and scalable product development.

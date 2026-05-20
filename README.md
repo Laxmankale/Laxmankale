@@ -1,92 +1,209 @@
-# Laxman Kale
+<div align="center">
 
-**Java Developer | Backend Engineer**
+# 👋 Hey, I'm Laxman Kale
 
-Pune, India  
-📞 +91 9579070069 | ✉️ lakhankale888@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/lakhan-kale-29886123b/) · [GitHub](https://github.com/Laxmankale) · [Portfolio](https://laxmankale.github.io/)
+### Java Backend Developer • Spring Boot • Microservices
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Kafka;Building+Scalable+Backend+Systems;Microservices+%7C+Docker+%7C+SQL" />
 
-## Professional Summary
-Backend-focused Java developer with hands-on experience building scalable microservices, REST APIs, and event-driven systems. Strong foundation in Spring Boot, Hibernate, JPA, and SQL-driven backend development, with practical exposure to Docker, Kafka, and Agile engineering workflows.
+<br/>
 
----
+<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Experience
+<a href="https://github.com/Laxmankale" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Java Developer — Zest India IT Services, Pune
-**March 2026 – Present**
-- Developing scalable microservices and REST APIs using Java, Spring Boot, Hibernate, and JPA.
-- Working with Apache Kafka for asynchronous communication across distributed services.
-- Designing and integrating backend APIs for enterprise business workflows and data processing.
-- Containerizing backend applications using Docker in development and staging environments.
-- Debugging API payload mismatches, SQL issues, and inter-service communication failures.
-- Participating in Agile sprint planning, code reviews, and Git-based collaboration.
+<a href="mailto:lakhankale888@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Software Developer Intern — Infosys Springboard (Remote)
-**October 2025 – December 2025**
-- Built and enhanced RESTful APIs for a MERN-based project (Hire A Helper).
-- Standardized API contracts for consistent request/response and validation behavior.
-- Integrated backend APIs with centralized exception handling.
-- Collaborated in Agile sprint cycles through pull requests, bug fixes, and merge conflict resolution.
+<a href="https://laxmankale.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-### Java Developer Intern — Bentork Industries LLP, Pune
-**July 2025 – September 2025**
-- Developed backend modules for Users, Sessions, and Payments using Spring Boot.
-- Implemented session lifecycle management with wallet validation and session-state handling.
-- Worked with layered architecture, REST APIs, and MySQL integration.
-- Diagnosed payload mismatches, SQL errors, and timeout issues using Postman and logging.
-- Managed feature delivery and issue fixes through Git branches and pull requests.
+</div>
 
 ---
 
-## Projects
+# 🚀 About Me
 
-### Share2Go — Ride-Sharing Web Application
-**Tech Stack:** Spring Boot, React.js, MySQL, Docker  
-**Repository:** [share2ride_Ride_Sharing_App](https://github.com/Laxmankale/share2ride_Ride_Sharing_App)
-- Designed and implemented 15+ REST APIs for ride booking, search filtering, and user management.
-- Implemented JWT-based authentication and role-based authorization for Drivers and Passengers.
-- Applied DTO-based layered architecture (Controller → Service → Repository).
-- Designed relational database schema for users, rides, and bookings.
-- Integrated React frontend with backend APIs for end-to-end ride booking workflows.
+```yaml
+Name: Laxman Kale
+Location: Pune, India
+Role: Java Backend Developer
+Experience: Backend APIs & Microservices
+Focus: Spring Boot, Kafka, Docker, SQL
+```
 
-### Sweet Shop Management System — Inventory & Sales Platform
-**Tech Stack:** Spring Boot, React.js, MySQL  
-**Repository:** [sweet-shop-management-system](https://github.com/Laxmankale/sweet-shop-management-system)
-- Built a full-stack inventory and sales platform using Spring Boot and React.js.
-- Developed REST APIs for product management, stock tracking, and purchase workflows.
-- Wrote unit tests using JUnit and Mockito for service and controller layers.
-- Tested APIs with Postman to validate payload structure and HTTP behavior.
-- Integrated frontend and backend features for dynamic product search and purchasing.
+- Developing scalable backend systems using Java & Spring Boot
+- Building REST APIs and event-driven applications
+- Working with Kafka, Docker, Hibernate, and SQL
+- Learning Microservices, AWS, and System Design
+- Focused on clean architecture and production-ready backend code
 
 ---
 
-## Education
+# ⚡ Tech Stack
 
-### Master of Computer Applications (MCA)
-**Savitribai Phule Pune University (SPPU), Pune**  
-**July 2023 – June 2025**
+<div align="center">
 
-### Bachelor of Science in Computer Science (BCS)
-**Dr. Babasaheb Ambedkar Marathwada University (BAMU), Chhatrapati Sambhajinagar**  
-**June 2019 – May 2022**
+### Backend Development
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,maven,kafka" />
 
-## Technical Skills
+### Frontend Development
 
-- **Languages:** Java, JavaScript, SQL
-- **Backend:** Spring Boot, Spring MVC, Spring Core, JDBC, Hibernate, JPA, REST APIs, GraphQL, Microservices
-- **Frontend:** React.js, HTML, CSS, Tailwind CSS
-- **Architecture & Messaging:** Apache Kafka, Event-Driven Communication, DTO Pattern, Layered Architecture
-- **Databases:** PostgreSQL, MySQL, Database Design, JPA Relationships, SQL Query Optimization
-- **Tools & Platforms:** Docker, AWS (Basics), Git, GitHub, Maven, Postman
-- **Core Concepts:** OOP, Collections, Exception Handling, Multithreading, Debugging
-- **Practices:** Agile/Scrum, Code Reviews, Pull Requests, API Integration
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,vscode" />
+
+</div>
 
 ---
 
-## Career Focus
-Open to Java Backend and Full-Stack software engineering opportunities involving API design, distributed systems, and scalable product development.
+# 💼 Experience
+
+## Java Developer — Zest India IT Services
+📅 March 2026 – Present
+
+✔ Developing scalable REST APIs and backend services using Spring Boot  
+✔ Working on distributed systems and Kafka-based communication  
+✔ Debugging SQL, API integration, and backend performance issues  
+✔ Using Docker for containerized application environments  
+✔ Collaborating through Agile workflows and Git-based development  
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚖 Share2Go
+
+### Ride Sharing Web Application
+
+**Tech Stack**  
+Spring Boot • React.js • MySQL • Docker
+
+### Features
+- JWT Authentication
+- Role-Based Authorization
+- Ride Booking APIs
+- Layered Architecture
+- RESTful Backend Services
+
+🔗 Repository  
+<a href="https://github.com/Laxmankale/share2ride_Ride_Sharing_App">
+share2ride_Ride_Sharing_App
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🍬 Sweet Shop Management
+
+### Inventory & Sales Platform
+
+**Tech Stack**  
+Spring Boot • React.js • MySQL
+
+### Features
+- Product Management APIs
+- Purchase & Inventory Tracking
+- Unit Testing with JUnit
+- Frontend + Backend Integration
+
+🔗 Repository  
+<a href="https://github.com/Laxmankale/sweet-shop-management-system">
+sweet-shop-management-system
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Laxmankale&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```java
+class LearningGoals {
+
+    String[] currentFocus = {
+        "Microservices",
+        "Kafka",
+        "System Design",
+        "Docker",
+        "AWS",
+        "Advanced Spring Boot"
+    };
+}
+```
+
+---
+
+# 🎯 Career Goal
+
+> Building scalable backend systems and becoming a strong Java Backend Engineer focused on distributed systems and clean architecture.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:lakhankale888@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://laxmankale.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Debug. Improve. Repeat.
+
+</div>

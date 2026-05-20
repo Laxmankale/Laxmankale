@@ -66,19 +66,6 @@ Focus: Spring Boot, Kafka, Docker, SQL
 
 ---
 
-# 💼 Experience
-
-## Java Developer — Zest India IT Services
-📅 March 2026 – Present
-
-✔ Developing scalable REST APIs and backend services using Spring Boot  
-✔ Working on distributed systems and Kafka-based communication  
-✔ Debugging SQL, API integration, and backend performance issues  
-✔ Using Docker for containerized application environments  
-✔ Collaborating through Agile workflows and Git-based development  
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -136,51 +123,7 @@ sweet-shop-management-system
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Laxmankale&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-```java
-class LearningGoals {
-
-    String[] currentFocus = {
-        "Microservices",
-        "Kafka",
-        "System Design",
-        "Docker",
-        "AWS",
-        "Advanced Spring Boot"
-    };
-}
-```
-
----
-
-# 🎯 Career Goal
-
-> Building scalable backend systems and becoming a strong Java Backend Engineer focused on distributed systems and clean architecture.
-
----
+----
 
 # 📫 Connect With Me
 

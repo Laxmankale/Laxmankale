@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:302b63&height=250&section=header&text=Laxman%20Kale&fontSize=50&fontColor=A970FF&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:302b63&height=250&section=header&text=Laxman%20Kale&fontSize=50&fontColor=A970FF&fontAlignY=40&desc=Java%20Developer%20%7C%20Spring%20Boot%20%E2%80%A2%20Microservices%20%E2%80%A2%20Kafka&descSize=18&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,10 +21,10 @@
 
 ## 👋 About Me
 
-> I'm a **Backend Developer** from **Pune, India** passionate about building scalable systems, clean API architecture, and reliable backend integrations.
+> I'm a **Java Developer** from **Pune, India** passionate about building scalable microservices, clean API architecture, event-driven communication, and reliable backend integrations.
 
-- 🔭 Currently building **microservices** with Spring Boot
-- 🌱 Exploring **system design** & **cloud architecture**
+- 🔭 Currently building scalable systems with **Java, Spring Boot, & Apache Kafka**
+- 🌱 Exploring **cloud architecture (AWS)** & **Containerization (Docker)**
 - 💼 Open to **Backend & Full-Stack** opportunities
 
 <br/>
@@ -33,43 +33,56 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,mysql,maven,git,github,postman,tailwind,html,css&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,mysql,postgres,docker,aws,kafka,graphql,maven,git,github,postman,tailwind,html,css&perline=9" alt="Tech Stack" />
   </a>
 </div>
 
 <br/>
 
-## 💼 Experience & 🎓 Education
+## 💼 Experience
+
+**Zest India IT Services, Pune** | Java Developer
+*March 2026 – Present*
+- Developing scalable microservices and REST APIs using Java, Spring Boot, Hibernate, and JPA.
+- Working with Apache Kafka for asynchronous event-driven communication across distributed services.
+- Containerizing backend applications using Docker across development and staging environments.
+
+**Infosys Springboard, Remote** | Software Developer Intern
+*Oct 2025 – Dec 2025*
+- Built and enhanced RESTful APIs for a MERN-based application (Hire A Helper).
+- Standardized API contracts for consistent request/response structures and validation handling.
+
+**Bentork Industries LLP, Pune** | Java Developer Intern
+*July 2025 – Sept 2025*
+- Developed backend modules including Users, Sessions, and Payments using Spring Boot.
+- Implemented session lifecycle management with wallet validation and session state handling.
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table width="100%" border="0">
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Experience
+### [🚗 Share2Go — Ride-Sharing App](https://github.com/Laxmankale/share2ride_Ride_Sharing_App)
 
-**Infosys Springboard** | Backend Intern
-*Oct 2025 – Nov 2025*
-- Developed REST APIs for MERN stack app
-- Standardized API contracts
-- Agile sprints & Production debugging
-
-**Bentork Industries LLP** | Backend Intern
-*Jul 2025 – Sep 2025*
-- Built independent microservices for Users, Sessions, and Payments.
-- Improved EV charging flow reliability.
+A full-stack ride-sharing application.
+- **Tech:** Spring Boot, React.js, MySQL, Docker
+- Designed 15+ REST APIs for ride booking, search filtering, and user management.
+- Implemented JWT-based authentication and role-based authorization.
+- Applied DTO pattern with layered architecture.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Education
+### [🍩 Sweet Shop Management](https://github.com/Laxmankale/sweet-shop-management-system)
 
-**Master of Computer Applications (MCA)**
-*GSMCOE, Pune*
-- CGPA: **7.35 / 10**
-
-**Bachelor of Computer Science (BCS)**
-*Balbhim College, Beed*
-- Score: **76.70%**
+Inventory & Sales Platform.
+- **Tech:** Spring Boot, React.js, MySQL
+- Developed REST APIs for product management, stock tracking, and purchase workflows.
+- Wrote unit tests using JUnit and Mockito.
+- Integrated frontend and backend services for dynamic workflows.
 
 </td>
 </tr>
@@ -77,18 +90,13 @@
 
 <br/>
 
-## 🚀 Featured Project
+## 🎓 Education
 
-### [🚗 Share2Go — Ride-Sharing Platform](https://github.com/Laxmankale/share2ride_Ride_Sharing_App)
+**Master of Computer Applications (MCA)**
+*SPPU, Pune* | *July 2023 – June 2025*
 
-A full-stack ride-sharing application built with **Spring Boot** and **React**. Supports real-time ride matching based on pickup location, destination, and seat availability.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=161b22" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=161b22" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=161b22" alt="Tailwind" />
-</div>
+**Bachelor of Science in Computer Science (BCS)**
+*BAMU, Chhatrapati Sambhajinagar* | *June 2019 – May 2022*
 
 <br/>
 

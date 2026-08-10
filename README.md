@@ -1,152 +1,64 @@
-<div align="center">
+# Hey, I'm Laxman Kale 👋
 
-# 👋 Hey, I'm Laxman Kale
-
-### Java Backend Developer • Spring Boot • Microservices
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Kafka;Building+Scalable+Backend+Systems;Microservices+%7C+Docker+%7C+SQL" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Laxmankale" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:lakhankale888@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://laxmankale.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+### Java Backend Developer · Spring Boot · REST APIs · Kafka
 
 ---
 
-# 🚀 About Me
+## About Me
 
 ```yaml
 Name: Laxman Kale
 Location: Pune, India
 Role: Java Backend Developer
-Experience: Backend APIs & Microservices
-Focus: Spring Boot, Kafka, Docker, SQL
+Focus: Backend APIs, Microservices & Distributed Systems
+Currently Learning: System Design, AWS & Cloud
 ```
 
-- Developing scalable backend systems using Java & Spring Boot
-- Building REST APIs and event-driven applications
-- Working with Kafka, Docker, Hibernate, and SQL
-- Learning Microservices, AWS, and System Design
-- Focused on clean architecture and production-ready backend code
+* 🔧 Building REST APIs and backend services with **Java & Spring Boot**
+* 📡 Exploring **Kafka & event-driven architecture**
+* 🗄️ Working with **SQL, Hibernate/JPA & PostgreSQL**
+* 🐳 Learning **Docker, AWS & cloud-native development**
+* 🧪 Improving backend code with **JUnit & Mockito**
+* 🧠 Strengthening problem-solving through **DSA & system design**
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
-<div align="center">
+**Backend**
+`Java` `Spring Boot` `Spring Security` `REST APIs` `Hibernate` `JPA` `Kafka`
 
-### Backend Development
+**Database**
+`PostgreSQL` `MySQL`
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,maven,kafka" />
+**Frontend**
+`React` `JavaScript` `HTML` `CSS`
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,aws,vscode" />
-
-</div>
+**Tools & Platforms**
+`Git` `GitHub` `Docker` `Maven` `Postman` `AWS` `IntelliJ IDEA`
 
 ---
 
-# 🚀 Featured Projects
+## GitHub Activity
 
-<div align="center">
+### 📈 Contributions
 
-<table>
-<tr>
-<td width="50%">
+I use GitHub to **build, contribute, experiment, and document my learning**.
 
-## 🚖 Share2Go
+Every commit represents something I worked on, learned, fixed, or improved.
 
-### Ride Sharing Web Application
+**Code → Contribute → Learn → Improve**
 
-**Tech Stack**  
-Spring Boot • React.js • MySQL • Docker
-
-### Features
-- JWT Authentication
-- Role-Based Authorization
-- Ride Booking APIs
-- Layered Architecture
-- RESTful Backend Services
-
-🔗 Repository  
-<a href="https://github.com/Laxmankale/share2ride_Ride_Sharing_App">
-share2ride_Ride_Sharing_App
-</a>
-
-</td>
-
-<td width="50%">
-
-## 🍬 Sweet Shop Management
-
-### Inventory & Sales Platform
-
-**Tech Stack**  
-Spring Boot • React.js • MySQL
-
-### Features
-- Product Management APIs
-- Purchase & Inventory Tracking
-- Unit Testing with JUnit
-- Frontend + Backend Integration
-
-🔗 Repository  
-<a href="https://github.com/Laxmankale/sweet-shop-management-system">
-sweet-shop-management-system
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+### 🏆 GitHub Trophies
 
 ---
 
-----
+## Currently Focused On
 
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:lakhankale888@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lakhan-kale-29886123b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://laxmankale.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+`Java` → `Spring Boot` → `Microservices` → `Kafka` → `Docker` → `AWS` → `System Design`
 
 ---
 
-<div align="center">
+## Let's Connect
 
-### ⚡ Code. Debug. Improve. Repeat.
-
-</div>
+### Code. Debug. Improve. Repeat.

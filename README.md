@@ -1,112 +1,156 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=220&section=header&text=Laxman%20Kale&fontSize=52&fontColor=2E3440&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20REST%20APIs&descAlignY=55&descSize=18&descColor=2E3440" alt="Laxman Kale header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=220&section=header&text=Laxman%20Kale&fontSize=52&fontColor=2E3440&animation=twinkling" alt="Header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=720&lines=Building+backend+APIs+and+microservices;Exploring+Kafka+and+event-driven+architecture;Learning+System+Design%2C+AWS+%26+cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+Microservices;Cloud-Native+Application+Development" alt="Typing animation" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laxmankale&label=Profile%20views&color=88C0D0&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Laxmankale?tab=followers">
-    <img src="https://img.shields.io/github/followers/Laxmankale?label=Followers&style=for-the-badge&color=88C0D0&labelColor=2E3440" alt="GitHub followers" />
-  </a>
-</p>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Laxmankale?style=for-the-badge&color=88C0D0&labelColor=2E3440)](https://github.com/Laxmankale?tab=followers)
+  [![Profile views](https://komarev.com/ghpvc/?username=Laxmankale&label=Profile%20Views&color=88C0D0&style=for-the-badge)](https://github.com/Laxmankale)
+  
+</div>
 
-## Who I Am
+---
 
-```ts
-const laxmanKale = {
-  title: "Java Backend Developer",
-  stack: [
-    "Java", "Spring Boot", "Spring Security", "REST APIs", "Apache Kafka",
-    "Hibernate/JPA", "MySQL", "PostgreSQL", "Docker"
-  ],
-  launchedProjects: ["Sweet Shop Management System"],
-  certifications: [],
-  status: "Learning System Design, AWS & Cloud",
-  openTo: "Backend development opportunities"
-} as const;
+## 👨‍💻 About Me
+
+I'm a **Java Backend Developer** focused on building scalable, maintainable backend systems and microservices. With expertise in Spring Boot, REST APIs, and cloud technologies, I'm passionate about creating robust solutions and currently expanding my knowledge in system design and AWS.
+
+```java
+public class LaxmanKale {
+  
+  private final String title = "Java Backend Developer";
+  
+  private final String[] techStack = {
+    "Java", "Spring Boot", "Spring Security", "REST APIs", 
+    "Apache Kafka", "Hibernate/JPA", "MySQL", "PostgreSQL", "Docker"
+  };
+  
+  private final String[] focus = {
+    "System Design", "AWS & Cloud Architecture", 
+    "Microservices", "API Development"
+  };
+  
+  private final String[] achievements = {
+    "Sweet Shop Management System"
+  };
+  
+  private final String status = "🎯 Open to Backend Development Opportunities";
+}
 ```
 
-## Featured Project
+---
+
+## 🚀 Featured Project
 
 ### Sweet Shop Management System
 
+A full-stack e-commerce management system demonstrating modern backend architecture and best practices.
+
 <a href="https://github.com/Laxmankale/sweet-shop-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmankale&repo=sweet-shop-management-system&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0&bg_color=2E3440" alt="Sweet Shop Management System repository card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmankale&repo=sweet-shop-management-system&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0" alt="Sweet Shop Management System" />
 </a>
 
-| Layer | Technology |
-| --- | --- |
-| Backend | Java 17, Spring Boot, Spring Security, JWT, Maven |
-| Data | MySQL |
-| Frontend | React 18, Vite, Tailwind CSS, Axios, React Router |
-| Testing | JUnit, JaCoCo |
+**Technical Stack:**
 
-[![Code](https://img.shields.io/badge/Code-88C0D0?style=for-the-badge&logo=github&logoColor=2E3440)](https://github.com/Laxmankale/sweet-shop-management-system)
+| Component | Technologies |
+|-----------|---------------|
+| **Backend** | Java 17, Spring Boot 3, Spring Security, JWT Authentication, Maven |
+| **Database** | MySQL with Hibernate/JPA ORM |
+| **Frontend** | React 18, Vite, Tailwind CSS, Axios, React Router |
+| **Quality Assurance** | JUnit, JaCoCo, Test Coverage |
+| **Deployment** | Docker, Docker Compose |
 
-## Tech Stack
+**Key Features:**
+- RESTful API with JWT-based authentication
+- Role-based access control (RBAC)
+- Database transactions and data integrity
+- Comprehensive test coverage
+- Containerized deployment
 
-<details open>
-<summary><b>Languages</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Java, JavaScript, HTML, CSS" />
-</details>
+---
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite, Tailwind CSS" />
-</details>
+## 🛠️ Technical Skills
 
-<details open>
-<summary><b>Backend &amp; Infrastructure</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=spring,kafka,docker&theme=dark" alt="Spring Boot, Apache Kafka, Docker" />
-</details>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<details open>
-<summary><b>Cloud</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
-</details>
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<details open>
-<summary><b>Databases</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" />
-</details>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<details open>
-<summary><b>Dev Tools</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea&theme=dark" alt="Git, GitHub, Maven, Postman, IntelliJ IDEA" />
-</details>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## GitHub Stats
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0&bg_color=2E3440" alt="Laxman's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440" alt="Laxman's top languages" />
-</p>
+### Tools & IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=Laxmankale&theme=nord&hide_border=false&border=88C0D0&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" alt="GitHub streak" />
+---
 
-## GitHub Trophies
+## 📊 GitHub Statistics
 
-<img src="https://github-profile-trophy.vercel.app/?username=Laxmankale&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0&bg_color=2E3440" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440" alt="Top Languages" />
+</div>
 
-## Contribution Activity
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=Laxmankale&theme=nord&hide_border=false&border=88C0D0&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" alt="GitHub Streak" />
+</div>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmankale&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=81A1C1&area=true&hide_border=false&border_color=88C0D0" alt="Laxman's contribution activity graph" />
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Laxmankale&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+</div>
 
-## Connect
+---
 
-<p>
-  <a href="https://github.com/Laxmankale"><img src="https://img.shields.io/badge/GitHub-Laxmankale-88C0D0?style=for-the-badge&logo=github&logoColor=2E3440" alt="GitHub" /></a>
-  <a href="https://laxmankale.github.io/"><img src="https://img.shields.io/badge/Portfolio-88C0D0?style=for-the-badge&logo=googlechrome&logoColor=2E3440" alt="Portfolio" /></a>
-  <a href="mailto:lakhankale888@gmail.com"><img src="https://img.shields.io/badge/Email-lakhankale888%40gmail.com-88C0D0?style=for-the-badge&logo=gmail&logoColor=2E3440" alt="Email Laxman" /></a>
-</p>
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmankale&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=81A1C1&area=true&hide_border=false&border_color=88C0D0" alt="Contribution Graph" />
+
+---
+
+## 🎯 Current Learning
+
+- 📚 System Design & Architecture Patterns
+- ☁️ AWS Services & Cloud Architecture
+- 🔗 Distributed Systems & Microservices Patterns
+- 📊 Advanced Database Optimization
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Laxmankale-88C0D0?style=for-the-badge&logo=github&logoColor=2E3440)](https://github.com/Laxmankale)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-laxmankale.github.io-88C0D0?style=for-the-badge&logo=googlechrome&logoColor=2E3440)](https://laxmankale.github.io/)
+  [![Email](https://img.shields.io/badge/Email-lakhankale888%40gmail.com-88C0D0?style=for-the-badge&logo=gmail&logoColor=2E3440)](mailto:lakhankale888@gmail.com)
+  
+</div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=120&section=footer" alt="Footer" />

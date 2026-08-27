@@ -19,40 +19,6 @@
 
 I'm a **Java Backend Developer** focused on building scalable, maintainable backend systems and microservices. With expertise in Spring Boot, REST APIs, and cloud technologies, I'm passionate about creating robust solutions and currently expanding my knowledge in system design and AWS.
 
-```java
-public class LaxmanKale {
-  
-  private final String title = "Java Backend Developer";
-  
-  private final String[] techStack = {
-    "Java", "Spring Boot", "Spring Security", "REST APIs", 
-    "Apache Kafka", "Hibernate/JPA", "MySQL", "PostgreSQL", "Docker"
-  };
-  
-  private final String[] focus = {
-    "System Design", "AWS & Cloud Architecture", 
-    "Microservices", "API Development"
-  };
-  
-  private final String[] achievements = {
-    "Sweet Shop Management System"
-  };
-  
-  private final String status = "🎯 Open to Backend Development Opportunities";
-}
-```
-
----
-
-## 🚀 Featured Project
-
-### Sweet Shop Management System
-
-A full-stack e-commerce management system demonstrating modern backend architecture and best practices.
-
-<a href="https://github.com/Laxmankale/sweet-shop-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laxmankale&repo=sweet-shop-management-system&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0" alt="Sweet Shop Management System" />
-</a>
 
 **Technical Stack:**
 
@@ -106,31 +72,6 @@ A full-stack e-commerce management system demonstrating modern backend architect
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxmankale&show_icons=true&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&icon_color=88C0D0&bg_color=2E3440" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmankale&layout=compact&theme=nord&border_color=88C0D0&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Laxmankale&theme=nord&hide_border=false&border=88C0D0&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Laxmankale&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmankale&bg_color=2E3440&color=D8DEE9&line=88C0D0&point=81A1C1&area=true&hide_border=false&border_color=88C0D0" alt="Contribution Graph" />
-
----
 
 ## 🎯 Current Learning
 

@@ -6,38 +6,11 @@
   </a>
 </p>
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Laxmankale?style=for-the-badge&color=88C0D0&labelColor=2E3440)](https://github.com/Laxmankale?tab=followers)
-  [![Profile views](https://komarev.com/ghpvc/?username=Laxmankale&label=Profile%20Views&color=88C0D0&style=for-the-badge)](https://github.com/Laxmankale)
-  
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
 I'm a **Java Backend Developer** focused on building scalable, maintainable backend systems and microservices. With expertise in Spring Boot, REST APIs, and cloud technologies, I'm passionate about creating robust solutions and currently expanding my knowledge in system design and AWS.
-
-
-**Technical Stack:**
-
-| Component | Technologies |
-|-----------|---------------|
-| **Backend** | Java 17, Spring Boot 3, Spring Security, JWT Authentication, Maven |
-| **Database** | MySQL with Hibernate/JPA ORM |
-| **Frontend** | React 18, Vite, Tailwind CSS, Axios, React Router |
-| **Quality Assurance** | JUnit, JaCoCo, Test Coverage |
-| **Deployment** | Docker, Docker Compose |
-
-**Key Features:**
-- RESTful API with JWT-based authentication
-- Role-based access control (RBAC)
-- Database transactions and data integrity
-- Comprehensive test coverage
-- Containerized deployment
-
----
 
 ## 🛠️ Technical Skills
 
@@ -72,13 +45,6 @@ I'm a **Java Backend Developer** focused on building scalable, maintainable back
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🎯 Current Learning
-
-- 📚 System Design & Architecture Patterns
-- ☁️ AWS Services & Cloud Architecture
-- 🔗 Distributed Systems & Microservices Patterns
-- 📊 Advanced Database Optimization
 
 ---
 
